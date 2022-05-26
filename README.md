@@ -15,4 +15,4 @@ This solution utilizes unsupervised outlier detection methods to detect anomalou
 * InfraGraf is a patented Cognitive infrastructure automation platform that optimizes enterprise technology infrastructure investments. It diagnoses and predicts infrastructure failures. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp)
+The product can be found [here](https://aws.amazon.com/marketplace/)
